@@ -59,7 +59,7 @@ La solución exportada contiene:
 
 ## 📥 Instalación
 
-1. Descargar la solución desde [`/export/RPA-Queue-Demo.zip`](./export/RPA-Queue-Demo.zip).  
+1. Descargar la solución desde [`/export/RPA-Queue-Demo.zip`](./export/RPAQueueDemo_1_0_0_1_managed.zip).  
 2. En **Power Apps / Power Automate**, ir a:  
    `Soluciones > Importar solución`.  
 3. Durante la importación, asignar valores a las **variables de entorno**:
