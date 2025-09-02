@@ -59,7 +59,7 @@ La solución exportada contiene:
 
 ## 📥 Instalación
 
-1. Descargar la solución desde la carpeta `/export` de este repositorio.  
+1. Descargar la solución desde [`/export/RPA-Queue-Demo.zip`](./export/RPA-Queue-Demo.zip).  
 2. En **Power Apps / Power Automate**, ir a:  
    `Soluciones > Importar solución`.  
 3. Durante la importación, asignar valores a las **variables de entorno**:
@@ -90,3 +90,8 @@ Este proyecto demuestra:
 
 ---
 
+## 📌 Notas
+
+- Puedes adaptarlo fácilmente para escenarios reales: atención a tickets, procesamiento de documentos, integraciones con ERP, etc.
+
+---
